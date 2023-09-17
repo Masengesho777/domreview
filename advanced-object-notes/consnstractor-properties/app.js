@@ -16,11 +16,11 @@ const john = new Person('john', 'sanders');
 // console.log(john.constructor);
 
 const bob = {};
-console.log(bob.constructor);
+// console.log(bob.constructor);
 const list = [];
-console.log(list.constructor);
+// console.log(list.constructor);
 const sayHi = function () {};
-console.log(sayHi.constructor);
+// console.log(sayHi.constructor);
 
 const susy = new john.constructor('susy', 'carpenter');
 susy.fullName();

@@ -6,6 +6,7 @@ function newAccount(name, initialBalance) {
     console.log(`Hey ${name}, your balance is ${balance}`);
   }
   return showBalance;
+
 }
 
 newAccount('susan', 500)();
