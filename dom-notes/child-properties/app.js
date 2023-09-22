@@ -9,10 +9,10 @@
 
 const result = document.querySelector('#result');
 const allChildren = result.childNodes;
-// console.log(allChildren);
+//  console.log(allChildren);
 
-const children = result.children;
-console.log(children);
+// const children = result.children;
+// console.log(children);
 
-console.log(result.firstChild);
-console.log(result.lastChild);
+// console.log(result.firstChild);
+// console.log(result.lastChild);
